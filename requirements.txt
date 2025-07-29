@@ -1,0 +1,19 @@
+# macOS屏幕OCR文字识别工具依赖包
+
+# 屏幕截图和GUI自动化
+pyautogui>=0.9.54
+
+# 图像处理
+Pillow>=9.0.0
+
+# OCR文字识别
+pytesseract>=0.3.10
+
+# 图像处理和计算机视觉
+opencv-python>=4.8.0
+
+# 专业图像预处理算法
+scikit-image>=0.19.0
+
+# 数值计算
+numpy>=1.21.0
